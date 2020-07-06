@@ -1,2 +1,2 @@
-# Initial page
+# 学院介绍
 

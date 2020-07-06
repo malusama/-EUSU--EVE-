@@ -1,5 +1,18 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Untitled](untitled.md)
+* [学院介绍](README.md)
+
+* [学院期间技能规划](get start.md)
+
+* [挖坟](挖坟.md)
+
+* [死亡空间](死亡空间.md)
+
+* [导弹伤害计算](导弹伤害计算.md)
+
+* [炮船伤害计算](跑船伤害计算.md)
+
+* [安全生产指南](00生产直男.md)
+
+  
 
