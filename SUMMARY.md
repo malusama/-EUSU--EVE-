@@ -1,20 +1,12 @@
-# Table of contents
+#Summary
 
 * [学院介绍](README.md)
 
 * [学院期间技能规划](get start.md)
-
-* [挖坟](挖坟.md)
-
-* [死亡空间](死亡空间.md)
-
-* [导弹伤害计算](导弹伤害计算.md)
-
-* [炮船伤害计算](炮船伤害计算.md)
-
-* [安全生产指南](00生产指南.md)
-
-* [知名人物介绍](二货.md)
-
-  
+* [挖坟](archaeological.md)
+* [死亡空间](dead space.md)
+* [导弹伤害计算](Missile damage.md)
+* [炮船伤害计算](Gunboat damage.md)
+* [安全生产指南](production safety.md)
+* [知名人物介绍](idiot.md)
 
